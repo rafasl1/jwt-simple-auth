@@ -15,4 +15,6 @@ To run the authentication manager server: `$ npm run start-auth:dev`
 ![image](https://user-images.githubusercontent.com/49666986/161445018-9e69dd9f-018c-4cb7-a2b8-74d5c32a8191.png)
 
 ## Todo List: 
-Add refresh 
+- Add refresh token
+- Refactor the code
+- Add logout route
