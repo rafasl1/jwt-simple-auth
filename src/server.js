@@ -12,6 +12,10 @@ const posts = [
     title: 'How to finish Elden Ring'
   },
   {
+    username: 'rafasl1',
+    title: 'A day in the life of a Backend Developer'
+  },
+  {
     username: 'marauder-br',
     title: 'How to became the Spider Man'
   }
